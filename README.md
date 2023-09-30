@@ -20,10 +20,10 @@ Using this program is straightforward and intuitive. Follow these steps to simul
 1. Launch the program by compiling and running it, as explained in the "Compilation and Execution of the Program" section above.
 
 2. The program will prompt you for the following information:
-- Enter the number of instructions.
-- Enter the amount of time.
-- Enter the number of pipeline stages.
-- For each pipeline stage, provide the following details:
+  - Enter the number of instructions.
+  - Enter the amount of time.
+  - Enter the number of pipeline stages.
+  - For each pipeline stage, provide the following details:
 
 3. Enter the name of the stage.
 4. Enter the time required for that stage.
