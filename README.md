@@ -30,10 +30,6 @@ Using this program is straightforward and intuitive. Follow these steps to simul
 
 After entering all the necessary information, the program will generate and display a time diagram for the pipeline operations, you will see a visual representation of the instruction pipeline with stages labeled according to your input.
 
-Analyze the diagram to understand how instructions flow through the pipeline over time.
-
-Feel free to experiment with different inputs to see how the pipeline operation changes based on your configurations.
-
 Enjoy using the simulator to explore instruction pipeline dynamics!
 
 
